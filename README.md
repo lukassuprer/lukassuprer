@@ -2,8 +2,6 @@
 
 [![github streak](https://github-readme-stats.vercel.app/api?username=lukassuprer&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![github streak](http://github-readme-streak-stats.herokuapp.com?user=lukassuprer&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
 <h2>💻&nbsp;skills</h2>
 
 frontend <br/>
