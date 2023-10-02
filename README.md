@@ -20,4 +20,4 @@ devops <br/>
 ![git](https://img.shields.io/badge/-git-262626?style=for-the-badge&logo=git)&nbsp;
 ![teamcity](https://img.shields.io/badge/-teamcity-262626?style=for-the-badge&logo=teamcity)&nbsp;
 
-[![wakatime](https://wakatime.com/badge/user/a28fd15c-1370-418f-87af-19a8ba619a6c.svg)](https://wakatime.com/a28fd15c-1370-418f-87af-19a8ba619a6c)
+[![wakatime](https://wakatime.com/badge/user/a28fd15c-1370-418f-87af-19a8ba619a6c.svg)](https://wakatime.com/@a28fd15c-1370-418f-87af-19a8ba619a6c)
